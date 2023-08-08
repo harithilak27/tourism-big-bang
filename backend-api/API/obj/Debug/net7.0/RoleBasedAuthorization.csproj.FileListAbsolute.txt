@@ -1,0 +1,308 @@
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.csproj.AssemblyReference.cache
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfoInputs.cache
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfo.cs
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CoreCompileInputs.cache
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cs
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cache
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\appsettings.Development.json
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\appsettings.json
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\RoleBasedAuthorization.exe
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\RoleBasedAuthorization.deps.json
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\RoleBasedAuthorization.runtimeconfig.json
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\RoleBasedAuthorization.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Azure.Core.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Azure.Identity.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.Memory.Data.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\staticwebassets\msbuild.RoleBasedAuthorization.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\staticwebassets\msbuild.build.RoleBasedAuthorization.props
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RoleBasedAuthorization.props
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RoleBasedAuthorization.props
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\staticwebassets.pack.json
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\staticwebassets.build.json
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\staticwebassets.development.json
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\scopedcss\bundle\RoleBasedAuthorization.styles.css
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CopyComplete
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.dll
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\refint\RoleBasedAuthorization.dll
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\RoleBasedAuthorization.genruntimeconfig.cache
+D:\C# training\Programs\RoleBasedAuthorization\obj\Debug\net7.0\ref\RoleBasedAuthorization.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Humanizer.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\C# training\Programs\RoleBasedAuthorization\bin\Debug\net7.0\System.CodeDom.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\appsettings.Development.json
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\appsettings.json
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\RoleBasedAuthorization.exe
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\RoleBasedAuthorization.deps.json
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\RoleBasedAuthorization.runtimeconfig.json
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\RoleBasedAuthorization.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Azure.Core.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Azure.Identity.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Humanizer.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.CodeDom.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AngularAuthentication-develop\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.AssemblyReference.cache
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfoInputs.cache
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfo.cs
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CoreCompileInputs.cache
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cs
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cache
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\staticwebassets\msbuild.RoleBasedAuthorization.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\staticwebassets\msbuild.build.RoleBasedAuthorization.props
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RoleBasedAuthorization.props
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RoleBasedAuthorization.props
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\staticwebassets.build.json
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\staticwebassets.development.json
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\scopedcss\bundle\RoleBasedAuthorization.styles.css
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CopyComplete
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.dll
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\refint\RoleBasedAuthorization.dll
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\RoleBasedAuthorization.genruntimeconfig.cache
+D:\AngularAuthentication-develop\API\obj\Debug\net7.0\ref\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.AssemblyReference.cache
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfoInputs.cache
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfo.cs
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CoreCompileInputs.cache
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cs
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cache
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\refint\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\appsettings.Development.json
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\appsettings.json
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\RoleBasedAuthorization.exe
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\RoleBasedAuthorization.deps.json
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\RoleBasedAuthorization.runtimeconfig.json
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Azure.Core.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Azure.Identity.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Humanizer.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.CodeDom.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\react\api-react-assess\react-proj-api\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\staticwebassets\msbuild.RoleBasedAuthorization.Microsoft.AspNetCore.StaticWebAssets.props
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\staticwebassets\msbuild.build.RoleBasedAuthorization.props
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RoleBasedAuthorization.props
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RoleBasedAuthorization.props
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\staticwebassets.build.json
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\staticwebassets.development.json
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\scopedcss\bundle\RoleBasedAuthorization.styles.css
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CopyComplete
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\RoleBasedAuthorization.genruntimeconfig.cache
+D:\react\api-react-assess\react-proj-api\API\obj\Debug\net7.0\ref\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\appsettings.Development.json
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\appsettings.json
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\RoleBasedAuthorization.exe
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\RoleBasedAuthorization.deps.json
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\RoleBasedAuthorization.runtimeconfig.json
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Azure.Core.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Azure.Identity.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Humanizer.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.CodeDom.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.AssemblyReference.cache
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfoInputs.cache
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.AssemblyInfo.cs
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CoreCompileInputs.cache
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cs
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.MvcApplicationPartsAssemblyInfo.cache
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\staticwebassets\msbuild.RoleBasedAuthorization.Microsoft.AspNetCore.StaticWebAssets.props
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\staticwebassets\msbuild.build.RoleBasedAuthorization.props
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RoleBasedAuthorization.props
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RoleBasedAuthorization.props
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\staticwebassets.build.json
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\staticwebassets.development.json
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\scopedcss\bundle\RoleBasedAuthorization.styles.css
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.csproj.CopyComplete
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\refint\RoleBasedAuthorization.dll
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.pdb
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\RoleBasedAuthorization.genruntimeconfig.cache
+D:\react\api-react-assess\react-proj-api\big-bang-assess\API\obj\Debug\net7.0\ref\RoleBasedAuthorization.dll
