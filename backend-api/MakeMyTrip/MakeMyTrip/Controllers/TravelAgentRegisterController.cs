@@ -3,6 +3,7 @@ using MakeMyTrip.Repository.AgentRegister;
 using MakeMyTrip.Repository.User;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace MakeMyTrip.Controllers
 {
@@ -29,6 +30,19 @@ namespace MakeMyTrip.Controllers
             {
                 // Return a generic error response to the client
                 return StatusCode(500, new { Message = "An error occurred while adding a Agent. Please try again later." });
+            }
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<List<TravelAgent>>> GetAllTravelAgentRequest()
+        {
+            try
+            {
+                return await _agent.GetAllTravelAgentRequest();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
             }
         }
     }

@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.topsec{
+  margin-top: 20px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: white;
+  color: #fff;
+  position: relative;
+
+}
+
+.combine{
+    display: flex;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.brandname{
+    color: black;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-left: 10px;
+}
+
+.navbar-toggle {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  position: absolute;
+  color: black;
+  top: 20px;
+  right: 20px;
+  z-index: 2;
+}
+
+.navbar-toggle span {
+  width: 30px;
+  height: 4px;
+  background-color: black;
+  margin: 3px 0;
+  transition: 0.4s;
+}
+
+.navbar-toggle.active span:nth-child(1) {
+  transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.navbar-toggle.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.navbar-toggle.active span:nth-child(3) {
+  transform: rotate(45deg) translate(-5px, -6px);
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  color: black;
+  margin-left: 400px;
+  cursor: pointer;
+}
+
+.navbar-links li:hover{
+  color: #F24E1E;
+  transform: scale(1.1);
+  transition: 0.1s all;
+}
+
+.navbar-links.active {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 80px;
+  left: 20px;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  z-index: 2;
+  margin-left: -15px;
+  width: 400px;
+}
+
+.navbar-links li {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar-links a {
+  text-decoration: none;
+  color: black;
+  transition: color 0.2s;
+}
+
+.navbar-links a:hover {
+  color: #F24E1E;
+  text-decoration: underline;
+} 
+ul li .fedbck:hover{
+  color: #F24E1E;
+
+}
+.login,.register{
+    background-color: #FA914B;
+    color: #fff;
+    border-style: none;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    margin-top: -4px;
+}
+
+.login:hover,.register:hover{
+  background-color: #FA914B;
+  color: #fff;
+}
+
+/* Responsive Styles */
+@media (max-width: 940px) {
+  .navbar-links {
+      display: none;
+  }
+
+  .navbar-toggle {
+      display: flex;
+  }
+  
+}
+
+@media (max-width:540px){
+    .navbar-links.active {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 80px;
+        left: 60px;
+        background-color: white;
+        color: black;
+        padding: 20px;
+        z-index: 2;
+        width: 400px;
+      }
+}

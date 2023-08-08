@@ -43,14 +43,13 @@ namespace MakeMyTrip.Repository.User
 
             //password hash method from helper folder
             userObj.Password = HashPassword.PasswordHashing(userObj.Password);
-            userObj.Role = "Admin";
             userObj.Token = "";
             await _context.AddAsync(userObj);
             await _context.SaveChangesAsync();
             return new OkObjectResult(new
             {
                 Status = 200,
-                Message = "Admin Added!"
+                Message = "User Added!"
             });
         }
 
@@ -194,6 +193,20 @@ namespace MakeMyTrip.Repository.User
             if (jwtSecurityToken == null || !jwtSecurityToken.Header.Alg.Equals(SecurityAlgorithms.HmacSha256, StringComparison.InvariantCultureIgnoreCase))
                 throw new SecurityTokenException("This is Invalid Token");
             return principal;
+
+        }
+
+        public async Task<List<Admin_User>> Getallurs()
+        {
+            return await _context.Admin_s.ToListAsync();
+        }
+
+        public async Task<ActionResult<List<TravelAgent>>> DeleteTravelAgent(int id)
+        {
+            var details = _context.TravelAgent.Find(id);
+            _context.Remove(details);
+            await _context.SaveChangesAsync();
+            return await _context.TravelAgent.ToListAsync();
 
         }
     }

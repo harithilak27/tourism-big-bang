@@ -9,7 +9,7 @@ namespace MakeMyTrip.Models
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int? Id { get; set; }
 
-        [Required]
+       
         [RegularExpression(@"^[a-zA-Z]+$")]
         public string? Username { get; set; }
 

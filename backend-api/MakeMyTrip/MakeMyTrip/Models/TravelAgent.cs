@@ -26,7 +26,7 @@ namespace MakeMyTrip.Models
 
         [Required]
         public string? AgencyName { get; set; }
- 
+
         [Required]
         public string? AgencyDescription {get; set; }
 

@@ -1,0 +1,29 @@
+.postimg{
+    width: 500px;
+    height: 800px;
+}
+.getimg {
+    width: 800px; 
+    height: auto; 
+    margin: 5px;
+  }
+  .locationdesc{
+    overflow-y: auto;
+    max-height: 100px;
+  }
+  .submitimage{
+    background-color: #FA914B;
+    color: white;
+    transition: transform 0.3s ease-in-out;
+
+  }
+  .submitimage:hover{
+    background-color: #FA914B;
+    color: white;
+    transform: scale(1.3);
+
+  }
+  .centralized{
+    display: flex;
+    justify-content: space-evenly;
+  }

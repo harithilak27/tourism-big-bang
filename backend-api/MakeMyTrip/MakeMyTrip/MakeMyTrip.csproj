@@ -20,8 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Images\AdminListGallery\" />
-    <Folder Include="Repository\AllHotels\" />
+    <Folder Include="Images\HotelDetails\" />
+    <Folder Include="Images\SpotDetails\" />
+    <Folder Include="Images\PlaceDetails\" />
   </ItemGroup>
 
 </Project>

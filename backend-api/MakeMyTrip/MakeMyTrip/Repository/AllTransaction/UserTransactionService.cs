@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MakeMyTrip.Repository.AllTransaction
 {
-    public class UserTransactionService
+    public class UserTransactionService : IUserTransaction
     {
         private readonly MakeTripContext _context;
         public UserTransactionService(MakeTripContext context)

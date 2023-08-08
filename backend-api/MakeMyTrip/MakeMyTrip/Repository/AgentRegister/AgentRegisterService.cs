@@ -67,6 +67,14 @@ namespace MakeMyTrip.Repository.AgentRegister
             return sb.ToString();
         }
 
-        
+
+        public async Task<ActionResult<List<TravelAgent>>> GetAllTravelAgentRequest()
+        {
+            var details = await _contexts.TravelAgent.ToListAsync();
+            return details;
+        }
+
+
+
     }
 }

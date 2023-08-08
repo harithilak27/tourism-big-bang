@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: white;
+  color: #fff;
+  position: relative;
+
+}
+
+.combine{
+    display: flex;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-toggle {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  position: absolute;
+  color: black;
+  top: 20px;
+  right: 20px;
+  z-index: 2;
+}
+
+.navbar-toggle span {
+  width: 30px;
+  height: 4px;
+  background-color: black;
+  margin: 3px 0;
+  transition: 0.4s;
+}
+
+.navbar-toggle.active span:nth-child(1) {
+  transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.navbar-toggle.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.navbar-toggle.active span:nth-child(3) {
+  transform: rotate(45deg) translate(-5px, -6px);
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  color: black;
+  margin-left: 400px;
+  cursor: pointer;
+}
+
+.navbar-links li:hover{
+  color: red;
+  transform: scale(1.1);
+  transition: 0.1s all;
+}
+
+.navbar-links.active {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 80px;
+  left: 20px;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  width: 200px;
+  z-index: 1;
+}
+
+.navbar-links li {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar-links a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.2s;
+}
+
+.navbar-links a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .navbar-links {
+      display: none;
+  }
+
+  .navbar-toggle {
+      display: flex;
+  }
+}
+
+
+
+.leftnav{
+    background-color: #FA914B;
+    color: white;
+    height: 800px;
+    width: 250px;
+    position: fixed;
+}
+
+
+.totaldiv{
+    font-size: 15px;
+    
+}
+
+.totaldiv div{
+    padding: 20px 15px 30px;
+    cursor: pointer;
+
+}
+
+
+
+.approvallist{
+    margin-left: 300px;
+ 
+}
+
+
+/* Add media query for responsive table */
+@media screen and (max-width: 768px) {
+    .table {
+        width: 100%;
+        max-width: 100%;
+        overflow: auto;
+    }
+}

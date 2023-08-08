@@ -15,7 +15,7 @@ namespace MakeMyTrip.Models
         [Required]
         public string? Locationdescription { get; set; }
 
-        [Required]
+        [Column(TypeName = "nvarchar(100)")]
         public string? ImageName { get; set; }
 
         [NotMapped]

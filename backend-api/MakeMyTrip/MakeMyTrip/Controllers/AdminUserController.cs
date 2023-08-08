@@ -3,6 +3,7 @@ using MakeMyTrip.Models.TokenDto;
 using MakeMyTrip.Repository.User;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace MakeMyTrip.Controllers
 {
@@ -57,6 +58,25 @@ namespace MakeMyTrip.Controllers
             {
                 // Return a generic error response to the client
                 return StatusCode(500, new { Message = "An error occurred while refreshing the token. Please try again later." });
+            }
+        }
+
+        [HttpGet]
+        public async Task<List<Admin_User>> Getallurs()
+        {
+            return await _users.Getallurs();
+        }
+
+        [HttpDelete]
+        public async Task<ActionResult<List<TravelAgent>>> DeleteTravelAgent(int id)
+        {
+            try
+            {
+                return await _users.DeleteTravelAgent(id);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
             }
         }
 

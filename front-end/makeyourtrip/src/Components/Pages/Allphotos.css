@@ -1,0 +1,24 @@
+.getimg {
+    width: 500px; 
+    height: auto;
+  }
+ .caroslheight{
+    width: 500px;
+ }
+ .alligs{
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .Circle2,
+.Circle2 * {
+  box-sizing: border-box;
+
+}
+
+.gallry{
+    height: 70vh;
+}
+.gallryhead{
+    padding: 50px;
+    text-align: center;
+}

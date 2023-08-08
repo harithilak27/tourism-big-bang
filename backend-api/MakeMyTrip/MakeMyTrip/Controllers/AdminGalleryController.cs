@@ -37,7 +37,7 @@ namespace MakeMyTrip.Controllers
         {
             string imageName = new String(Path.GetFileNameWithoutExtension(imageFile.FileName).Take(10).ToArray()).Replace(' ', '-');
             imageName = imageName + DateTime.Now.ToString("yymmssfff") + Path.GetExtension(imageFile.FileName);
-            var imagePath = Path.Combine(_hostEnvironment.ContentRootPath, "Images/AdminListGallery", imageName);
+            var imagePath = Path.Combine(_hostEnvironment.ContentRootPath, "Images/AdminAllImages", imageName);
             using (var fileStream = new FileStream(imagePath, FileMode.Create))
             {
                 await imageFile.CopyToAsync(fileStream);
@@ -56,10 +56,32 @@ namespace MakeMyTrip.Controllers
                     LocationName = x.LocationName,
                     Locationdescription = x.Locationdescription,
                     ImageName = x.ImageName,
-                    ImageSrc = String.Format("{0}://{1}{2}/Images/{3}", Request.Scheme, Request.Host, Request.PathBase, x.ImageName)
+                    ImageSrc = String.Format("{0}://{1}{2}/Images/AdminAllImages/{3}", Request.Scheme, Request.Host, Request.PathBase, x.ImageName)
                 })
                 .ToListAsync();
         }
+
+        /*[HttpGet]
+        public ActionResult<IEnumerable<AdminImageGallery>> GetAllImages()
+        {
+            string imageFolderPath = Path.Combine(_hostEnvironment.ContentRootPath, "Images/Samplecheck");
+            string[] imageFiles = Directory.GetFiles(imageFolderPath);
+
+            var imageList = imageFiles.Select(imageFilePath =>
+            {
+                var imageName = Path.GetFileName(imageFilePath);
+                return new AdminImageGallery()
+                {
+                    AdminImgsId = 0, // You may want to set this based on your requirements
+                    LocationName = "", // You may want to set this based on your requirements
+                    Locationdescription = "", // You may want to set this based on your requirements
+                    ImageName = imageName,
+                    ImageSrc = String.Format("{0}://{1}{2}/Images/Samplecheck/{3}", Request.Scheme, Request.Host, Request.PathBase, imageName)
+                };
+            });
+
+            return imageList.ToList();
+        }*/
 
         //to update the images with details
         [HttpPut("{id}")]
@@ -123,7 +145,7 @@ namespace MakeMyTrip.Controllers
         [NonAction]
         public void DeleteImage(string imageName)
         {
-            var imagePath = Path.Combine(_hostEnvironment.ContentRootPath, "Images/AdminListGallery", imageName);
+            var imagePath = Path.Combine(_hostEnvironment.ContentRootPath, "Images/AdminAllImages", imageName);
             if (System.IO.File.Exists(imagePath))
                 System.IO.File.Delete(imagePath);
         }

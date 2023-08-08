@@ -7,6 +7,10 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using MakeMyTrip.Repository.User;
 using MakeMyTrip.Repository.AgentRegister;
 using Microsoft.Extensions.FileProviders;
+using MakeMyTrip.Repository.AllTransaction;
+using MakeMyTrip.Repository.Feedbacks;
+using MakeMyTrip.Repository.Packages;
+using MakeMyTrip.Repository.UserBooking;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +29,14 @@ builder.Services.AddDbContext<MakeTripContext>(option =>
 builder.Services.AddScoped<IUser,UserService>();
 //add agency in temp table
 builder.Services.AddScoped<IAgents,AgentRegisterService>();
+//add transaction depency injection
+builder.Services.AddScoped<IUserTransaction,UserTransactionService>();
+//add feedback
+builder.Services.AddScoped<IFeedback,FeedbackService>();
+//add packageoffring
+builder.Services.AddScoped<IAllPack, AllPackages>();
+//add bookings
+builder.Services.AddScoped<IBooking, Booking>();
 
 
 //for authentication
@@ -65,7 +77,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(Path.Combine(app.Environment.ContentRootPath, "Images")),
+    RequestPath = "/Images"
+});
 
 app.UseHttpsRedirection();
 

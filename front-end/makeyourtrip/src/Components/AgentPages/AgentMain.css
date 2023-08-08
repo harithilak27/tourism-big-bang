@@ -1,0 +1,73 @@
+.containers {
+    background-image: url('../../images/Hotel/hotel4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  
+  .rect1 {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+  }
+  
+.mainhoteltext{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 8px;
+    margin: 170px;
+}
+.subhotl{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* .outterbox,
+.outterbox * {
+  box-sizing: border-box;
+}
+.outterbox {
+  background: white;
+  border-radius: 15px;
+  width: 100%;
+  height: 150px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+} */
+.boxs{
+  margin-top: -70px;
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  height: 180px;
+
+}
+.optns{
+  margin-top: 15px;
+  margin-left:30px;
+}
+.seprte{
+  margin-top: 20px;
+}
+.linknames{
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+  margin: 10px;
+  text-align: center;
+}
+.heart-emoji::before {
+  content: "\2764"; /* Unicode code point for the heart emoji */
+  font-family: "Segoe UI Emoji", sans-serif;
+  font-size: 24px;
+}
+.imgcontnt{
+  display: flex;
+  justify-content: space-evenly;
+}

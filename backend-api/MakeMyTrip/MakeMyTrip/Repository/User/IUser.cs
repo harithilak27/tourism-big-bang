@@ -9,6 +9,9 @@ namespace MakeMyTrip.Repository.User
         Task<IActionResult> AddUser(Admin_User userObj);
         Task<IActionResult> Authenticate(Admin_User userObj);
         Task<IActionResult> Refresh(GetToken getToken);
+        Task<List<Admin_User>> Getallurs();
+        Task<ActionResult<List<TravelAgent>>> DeleteTravelAgent(int id);
+
 
 
 

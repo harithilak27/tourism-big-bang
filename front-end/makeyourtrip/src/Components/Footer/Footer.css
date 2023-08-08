@@ -1,0 +1,12 @@
+.footers{
+    background: gray 10%;
+}
+.weblogo{
+    display: flex;
+}
+.brandname{
+    margin-top: 12px;
+}
+.qote{
+    margin-top: 20px;
+}

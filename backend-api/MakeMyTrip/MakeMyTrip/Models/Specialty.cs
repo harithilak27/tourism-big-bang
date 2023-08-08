@@ -12,6 +12,8 @@ namespace MakeMyTrip.Models
         [Required]
         public string? SpecialtyLocation { get; set; }
         public string? WhatSpecial { get; set; }
+
+        [Column(TypeName = "nvarchar(100)")]
         public string? ImageName { get; set; }
 
         [NotMapped]
