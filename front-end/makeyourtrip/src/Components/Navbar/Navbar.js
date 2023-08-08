@@ -1,7 +1,7 @@
 import React from 'react'
 import {NavLink} from 'react-router-dom'
 import './navbar.css'
-import {faTimes,faBars} from '@fortawesome/free-solid-svg-icons'
+import {faTimes,faBars,faTrain} from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function Navbar() {
@@ -17,7 +17,7 @@ function Navbar() {
           <div className="nav-container">
             <NavLink exact to="/" className="nav-logo">
               Travel Books
-              <i className="fa fa-code"></i>
+              <FontAwesomeIcon icon={faTrain} />
             </NavLink>
             <ul className={click ? "nav-menu active" : "nav-menu"}>
               <li className="nav-item">
@@ -56,12 +56,23 @@ function Navbar() {
               <li className="nav-item">
                 <NavLink
                   exact
-                  to="/contact"
+                  to="/Login"
                   activeClassName="active"
                   className="nav-links"
                  onClick={click ? handleClick : null}
                 >
-                  Contact Us
+                  Login
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink
+                  exact
+                  to="/Login"
+                  activeClassName="active"
+                  className="nav-links"
+                 onClick={click ? handleClick : null}
+                >
+                  Logout
                 </NavLink>
               </li>
             </ul>

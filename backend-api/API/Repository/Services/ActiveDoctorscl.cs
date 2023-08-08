@@ -14,7 +14,7 @@ namespace RoleBasedAuthorization.Repository.Services
             _context = context;
         }
 
-        public async Task<ActiveDoctors> PostActiveDoctor(ActiveDoctors activedoctors)
+        public async Task<ActiveAgencies> PostActiveDoctor(ActiveAgencies activedoctors)
         {
             var itm = await _context.ActiveDoctors.AddAsync(activedoctors);
             if (itm == null)
@@ -25,7 +25,7 @@ namespace RoleBasedAuthorization.Repository.Services
             return activedoctors;
         }
 
-        public async Task<IEnumerable<ActiveDoctors>> GetActiveDoctors()
+        public async Task<IEnumerable<ActiveAgencies>> GetActiveDoctors()
         {
             var gd = await _context.ActiveDoctors.ToListAsync();
             if (gd == null)
@@ -35,7 +35,7 @@ namespace RoleBasedAuthorization.Repository.Services
             return gd;
         }
 
-        public async Task<List<ActiveDoctors>> DeleteActiveDoctors(string id)
+        public async Task<List<ActiveAgencies>> DeleteActiveDoctors(string id)
         {
             var staff = await _context.ActiveDoctors.FirstOrDefaultAsync(s => s.userId == id);
             if (staff == null)

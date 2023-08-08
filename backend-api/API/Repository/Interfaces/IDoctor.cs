@@ -4,9 +4,9 @@ namespace RoleBasedAuthorization.Repository.Interfaces
 {
     public interface IDoctor
     {
-        Task<Doctors> PostDoctor(Doctors doctor);
-        Task<IEnumerable<Doctors>> GetDoctors();
+        Task<Agency> PostDoctor(Agency doctor);
+        Task<IEnumerable<Agency>> GetDoctors();
 
-        Task<List<Doctors>> DeleteDoctors(string id);
+        Task<List<Agency>> DeleteDoctors(string id);
     }
 }

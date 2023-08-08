@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace RoleBasedAuthorization.Models
 {
-    public class ActiveDoctors
+    public class ActiveAgencies
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]

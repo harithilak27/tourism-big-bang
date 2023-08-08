@@ -17,7 +17,7 @@ namespace RoleBasedAuthorization.Controllers
             _context = context;
         }
         [HttpPost]
-        public async Task<ActionResult<Doctors>> PostDoctor(Doctors doctors)
+        public async Task<ActionResult<Agency>> PostDoctor(Agency doctors)
         {
             try
             {
@@ -31,7 +31,7 @@ namespace RoleBasedAuthorization.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Doctors>>> GetDoctors()
+        public async Task<ActionResult<IEnumerable<Agency>>> GetDoctors()
         {
             try
             {
@@ -44,7 +44,7 @@ namespace RoleBasedAuthorization.Controllers
             }
         }
         [HttpDelete("{id}")]
-        public async Task<ActionResult<List<Doctors>>> DeleteDoctors(string id)
+        public async Task<ActionResult<List<Agency>>> DeleteDoctors(string id)
         {
             var staff = await _context.DeleteDoctors(id);
 

@@ -4,8 +4,8 @@ namespace RoleBasedAuthorization.Repository.Interfaces
 {
     public interface IActiveDoctors
     {
-        Task<ActiveDoctors> PostActiveDoctor(ActiveDoctors activedoctors);
-        Task<IEnumerable<ActiveDoctors>> GetActiveDoctors();
-        Task<List<ActiveDoctors>> DeleteActiveDoctors(string id);
+        Task<ActiveAgencies> PostActiveDoctor(ActiveAgencies activedoctors);
+        Task<IEnumerable<ActiveAgencies>> GetActiveDoctors();
+        Task<List<ActiveAgencies>> DeleteActiveDoctors(string id);
     }
 }
